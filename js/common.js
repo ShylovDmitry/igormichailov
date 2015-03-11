@@ -92,19 +92,17 @@ var SiteManager = (function() {
 		} else if (typeof project.preview.slides != 'undefined') {
 			if (project.preview.slides.length > 1) {
 				var $img = $(".slides" + project.id + " img:first");
-				var img = $img.get(0);
 
-				var old_src = img.src;
-				img.src = '';
+                var img = new Image();
 				img.onload = function() {
-					$(".slides" + project.id).slidesjs({
+                    $(".slides" + project.id).slidesjs({
 						width: $img.width(),
 						height: $img.height(),
 						navigation: {active: false},
 						play: {auto: true}
 					});
-				}
-				img.src = old_src;
+				};
+				img.src = $img.get(0).src;
 			}
 		}
 		setTimeout(function() {
