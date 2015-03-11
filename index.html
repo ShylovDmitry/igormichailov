@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>IGOR MICHAILOV // Online Portfolio</title><br>
+		<meta name="description" content="The latest projects from Igor Michailov. Desktop / Mobile / iPad / Video / Motion Graphics.">
+		<link href="css/common.css" rel="stylesheet">
+		<link href="css/normalize.css" rel="stylesheet">
+
+		<script type="text/javascript" src="js/libs/cufon-yui.js"></script>
+		<script type="text/javascript" src="js/libs/Univers_Black_italic_500.font.js"></script>
+		<script type="text/javascript" src="js/libs/Univers_45_Light_400-Univers_45_Light_700.font.js"></script>
+    </head>
+    <body>
+		<img src="img/loading.gif" style="display:none" />
+		<img src="img/icons.png" style="display:none" />
+		<div class="header" id="header">
+			<div class="center">
+				<div class="logo">
+					<a class="icon" href="#/"><img src="img/logo.png" /></a>
+					<img class="title" src="img/text.png" />
+				</div>
+
+				<ul class="menu">
+					<li>
+						<a class="text" href="#/projects">
+							<em class="inactive-text">_ projects <i></i></em>
+							<em class="active-text">_ projects <i></i></em>
+							<em class="hover-text">_ projects <i></i></em>
+						</a>
+						<ul class="projects-menu">
+							<li>
+								<a class="text" href="#/projects/all">
+									<em class="inactive-text">ALL</em>
+									<em class="active-text">ALL</em>
+									<em class="hover-text">ALL</em>
+								</a>
+							</li>
+							<li>
+								<a class="text" href="#/projects/motion">
+									<em class="inactive-text">MOTION</em>
+									<em class="active-text">MOTION</em>
+									<em class="hover-text">MOTION</em>
+								</a>
+							</li>
+							<li>
+								<a class="text" href="#/projects/digital">
+									<em class="inactive-text">WEB</em>
+									<em class="active-text">WEB</em>
+									<em class="hover-text">WEB</em>
+								</a>
+							</li>
+							<li>
+								<a class="text" href="#/projects/print">
+									<em class="inactive-text">PRINT</em>
+									<em class="active-text">PRINT</em>
+									<em class="hover-text">PRINT</em>
+								</a>
+							</li>
+						</ul>
+                    </li>
+					<li>
+						<a class="text" href="#/clients">
+							<em class="inactive-text">_ clients <i></i></em>
+							<em class="active-text">_ clients <i></i></em>
+							<em class="hover-text">_ clients <i></i></em>
+						</a>
+					</li>
+                    <li>
+						<a id="contactInfo" class="text" href="#">
+							<em class="inactive-text">_ contact</em>
+							<em class="active-text">_ contact</em>
+							<em class="hover-text">_ contact</em>
+						</a>
+						<ul class="contact-menu">
+							<li><a id="contactPhone"></a></li>
+							<li><a id="contactEmail"></a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="content" id="content"></div>
+
+		<script src="js/libs/jquery-1.9.1.min.js"></script>
+		<script src="js/libs/jquery.easing.min.js"></script>
+		<script src="js/libs/jquery.slides.min.js"></script>
+		<script src="js/libs/jquery.lazyload.min.js"></script>
+		<script src="js/libs/director.min.js"></script>
+		<script src="js/libs/swfobject.js"></script>
+		<script src="js/common.js"></script>
+		<script>
+			$(document).ready(function() {
+				SiteManager.init();
+				Cufon.replace(".text");
+			});
+		</script>
+    </body>
+</html>

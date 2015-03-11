@@ -1,0 +1,450 @@
+<?xml version="1.0"?>
+<data>
+	<info>
+		<phone>416.402.4366</phone>
+		<email>info@igormichailov.com</email>
+	</info>
+	<projects>
+		<project>
+			<id>motionreel2015</id>
+			<section>motion</section>
+			<type>video</type>
+			<name>Motion Reel 2015</name>
+			<url> </url>
+			<description>A showcase of video projects, motion graphics and advertisements from the past year.</description>
+			<role>art direction / after effects</role>
+			<thumb>data/images_t/iggyreel.jpg</thumb>
+			<preview>
+				<video>http://player.vimeo.com/video/112957695</video>
+			</preview>
+		</project>
+		<project>
+			<id>vyvanse</id>
+			<section>digital</section>
+			<type>web</type>
+			<name>VYVANSE // Website</name>
+			<year>2012</year>
+			<url> </url>
+			<description>Vyvanse is a medication designed to control ADHD symptoms in patients. This is a website designed to introduce the consumer to Vyvanse, and educate potential consumers on the benefits and potential side-effects of this drug.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/vyvanse2.jpg</thumb>
+			<preview>
+				<pic>data/images_l/vyvanse1.jpg</pic>
+				<pic>data/images_l/vyvanse2.jpg</pic>
+				<pic>data/images_l/vyvanse3.jpg</pic>
+				<pic>data/images_l/vyvanse4.jpg</pic>
+				<pic>data/images_l/vyvanse5.jpg</pic>
+			</preview>
+		</project>
+		
+<project>
+			<id>juicecrafters</id>
+			<section>motion</section>
+			<type>video</type>
+			<name>JUICE CRAFTERS // Commercial</name>
+			<url> </url>
+			<description>Where does goodness come from? It doesn't fall far from the tree. An organic one, of course. Juice Crafters is about purity of ingredients. Hand-picked. Fresh. From farm to table.</description>
+			<role>director / filming / post</role>
+			<thumb>data/images_t/juiceCrafters.jpg</thumb>
+			<preview>
+				<video>http://player.vimeo.com/video/112350137</video>
+			</preview>
+		</project>
+		
+<project>
+			<id>RealCup</id>
+			<section>digital</section>
+			<type>web</type>
+			<name>RealCup // Website and Mobile</name>
+			<year>2012</year>
+			<url> </url>
+			<description>Desktop and mobile website for RealCup, the chief competitor of Keurig's K-Cups</description>
+			<role>design</role>
+			<thumb>data/images_t/RealCup.jpg</thumb>
+			<preview>
+				<pic>data/images_l/RealCup_L1.jpg</pic>
+				<pic>data/images_l/RealCup_L4.jpg</pic>
+				<pic>data/images_l/RealCup_L6.jpg</pic>
+				<pic>data/images_l/RealCup_L10.jpg</pic>
+			</preview>
+		</project>
+		<project>
+			<id>inventiv-health-reel</id>
+			<section>motion</section>
+			<type>video</type>
+			<name>INVENTIV HEALTH // Sizzle Reel</name>
+			<url> </url>
+			<description>Inventiv Health is an international marketing and strategy firm focused on the healthcare and pharmaceutical sectors. I was asked to create a sizzle reel of their best work as a showcase for pitches and perspective clients</description>
+			<role>art direction / after effects</role>
+			<thumb>data/images_t/inventivSizzleReel.jpg</thumb>
+			<preview>
+				<video>http://player.vimeo.com/video/65621333</video>
+			</preview>
+		</project>
+		
+		<project>
+			<id>cx</id>
+			<section>digital</section>
+			<type>web</type>
+			<name>CYBERPLEX // Corporate Site</name>
+			<year>2012</year>
+			<url> </url>
+			<description>A corporate website for Cyberplex, a technology and software development company publicly traded on the TSX.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/cyberplex1.jpg</thumb>
+			<preview>
+				<pic>data/images_l/cyberplex2.jpg</pic>
+				<pic>data/images_l/cyberplex3.jpg</pic>
+				<pic>data/images_l/cyberplex5.jpg</pic>
+				<pic>data/images_l/cyberplex7.jpg</pic>
+				<pic>data/images_l/cyberplex8.jpg</pic>
+			</preview>
+		</project>
+		<project>
+			<id>uloric</id>
+			<section>motion</section>
+			<type>video</type>
+			<name>ULORIC // Change your perception</name>
+			<url> </url>
+			<description>As part of my work for the pharmaceutical sector i was asked to create a promotional video for Uloric, a drug intended for the treatment of gout. The theme of this piece is "changing perceptions".</description>
+			<role>art direction / after effects</role>
+			<thumb>data/images_t/uloric.jpg</thumb>
+			<preview>
+				<video>http://player.vimeo.com/video/65624076</video>
+			</preview>
+		</project>
+		<project>
+			<id>tim-hortons</id>
+			<section>digital</section>
+			<type>flash</type>
+			<name>Tim Horton's // Banner Ad</name>
+			<year>2011</year>
+			<url> </url>
+			<description>One of a series of banners for Tim Hortons new breakfast sandwich.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/timhortons.jpg</thumb>
+			<preview>
+				<pic>data/images_l/timhortons1.jpg</pic>
+				<pic>data/images_l/timhortons2.jpg</pic>
+			</preview>
+		</project>
+<project>
+			<section>web</section>
+			<type>web</type>
+			<name>Hook // Website</name>
+			<year>2010</year>
+			<url>http://www.hook2.com</url>
+			<description>Hook is a phone company offering canada wide VoiP service. They needed sleek and poppin flash site to showcase their services, low rates and special offers. The target demographic was teens and twenty somethings.</description>
+			<role>art direction / flash</role>
+			<thumb>data/images_t/hook.jpg</thumb>
+			<preview>
+				<pic>data/images_l/hook1.jpg</pic>
+				<pic>data/images_l/hook2.jpg</pic>
+				<pic>data/images_l/hook3.jpg</pic>
+				<pic>data/images_l/hook4.jpg</pic>
+				<pic>data/images_l/hook5.jpg</pic>
+			</preview>
+		</project>
+		
+
+
+		<project>
+			<id>rbc</id>
+			<section>digital</section>
+			<type>flash</type>
+			<name>RBC social media // Microsite</name>
+			<year>2011</year>
+			<url> </url>
+			<description>An interactive demo detailing the functionality and proper usage of social media outlets to RBC executives and reps. </description>
+			<role>art direction / flash</role>
+			<thumb>data/images_t/RBC.jpg</thumb>
+			<preview>
+				<pic>data/images_l/rbc1.jpg</pic>
+				<pic>data/images_l/rbc2.jpg</pic>
+				<pic>data/images_l/rbc3.jpg</pic>
+				<pic>data/images_l/rbc4.jpg</pic>
+				<pic>data/images_l/rbc5.jpg</pic>
+				<pic>data/images_l/rbc6.jpg</pic>
+				<pic>data/images_l/rbc7.jpg</pic>
+				<pic>data/images_l/rbc8.jpg</pic>
+			</preview>
+		</project>
+
+		<project>
+			<id>re-me</id>
+			<section>motion</section>
+			<type>video</type>
+			<name>RE:ME // Stay in touch</name>
+			<url> </url>
+			<description>re:me is a mobile App that lists your unresponded SMSs so that you can always remember those that are important to you.</description>
+			<role>art direction / after effects</role>
+			<thumb>data/images_t/reme.jpg</thumb>
+			<preview>
+				<video>http://player.vimeo.com/video/95171345</video>
+			</preview>
+		</project>
+
+		<project>
+			<id>blackberry</id>
+			<section>digital</section>
+			<type>flash</type>
+			<name>BLACKBERRY // Tradeshow</name>
+			<year>2011</year>
+			<url> </url>
+			<description>BlackBerry needed several interactive sequences for an upcoming trade show in vegas. Visitors interacted with the sequences on large HD screens at their booth.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/bb3.jpg</thumb>
+			<preview>
+				<pic>data/images_l/bb2.jpg</pic>
+				<pic>data/images_l/bb3.jpg</pic>
+				<pic>data/images_l/bb4.jpg</pic>
+				<pic>data/images_l/bb5.jpg</pic>
+				<pic>data/images_l/bb6.jpg</pic>
+				<pic>data/images_l/bb7.jpg</pic>
+			</preview>
+		</project>
+		
+		<project>
+			<id>aesm</id>
+			<section>digital</section>
+			<type>web</type>
+			<name>ATHELTIC EDGE // Website</name>
+			<year>2011</year>
+			<url> </url>
+			<description>Athletic Edge Sports Medicine is a clinic for athletes run by the accredited Dr. Lum. The clinics clientelle include NHL players and other high calibre athletes. The website had to have a strong brand that screams power, energy and ahtletism.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/aesm.jpg</thumb>
+			<preview>
+				<pic>data/images_l/aesm2.jpg</pic>
+				<pic>data/images_l/aesm3.jpg</pic>
+				<pic>data/images_l/aesm4.jpg</pic>
+			</preview>
+		</project>
+		<project>
+			<id>jeep</id>
+			<section>digital</section>
+			<type>web</type>
+			<name>Jeep Cherokee // Microsite</name>
+			<year>2011</year>
+			<url> </url>
+			<description>A site intended to promote Jeep and create customer awareness of Jeep and it's unique features.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/Jeep.jpg</thumb>
+			<preview>
+				<pic>data/images_l/Jeep_L1.jpg</pic>
+				<pic>data/images_l/Jeep_L2.jpg</pic>
+				<pic>data/images_l/Jeep_L3.jpg</pic>
+			</preview>
+		</project>
+		<project>
+			<id>poolofsweat</id>
+			<section>print</section>
+			<type>print</type>
+			<name>POOLOFSWEAT.COM // Business Cards</name>
+			<year>2011</year>
+			<url> </url>
+			<description>Identity and business cards for personal trainer extraordinaire Lori Kirwan.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/P_lorik.jpg</thumb>
+			<preview>
+				<pic>data/images_l/poolofsweat3.jpg</pic>
+				<pic>data/images_l/poolofsweat4.jpg</pic>
+				<pic>data/images_l/poolofsweat1.jpg</pic>
+				<pic>data/images_l/poolofsweat2.jpg</pic>
+
+			</preview>
+		</project>
+		<project>
+			<id>psb</id>
+			<section>print</section>
+			<type>logo</type>
+			<name>Provincial School Board "Outreach"</name>
+			<year>2011</year>
+			<url> </url>
+			<description>The Ontario Provincial School Board neeeded a logo for the "Outreach" Program. The logo needed to convey that the program helped people with 'special needs', hence the use of hand gestures and braille.</description>
+			<role>design</role>
+			<thumb>data/images_t/L_psb.jpg</thumb>
+			<preview>
+				<pic>data/images_l/psb.jpg</pic>
+			</preview>
+		</project>
+		<project>
+			<id>torontohydro</id>
+			<section>print</section>
+			<type>print</type>
+			<name>TORONTO HYDRO // Annual Report</name>
+			<year>2011</year>
+			<url> </url>
+			<description>A corporate responsibility report for Toronto Hydro. Toronto's power supplier was looking for a fresh new look for their online report.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/tohy.jpg</thumb>
+			<preview>
+				<pic>data/images_l/hydro3.jpg</pic>
+				<pic>data/images_l/hydro2.jpg</pic>
+			</preview>
+		</project>
+		<project>
+			<id>tymont-brochure</id>
+			<section>print</section>
+			<type>print</type>
+			<name>TYMONT // Brochure</name>
+			<year>2011</year>
+			<url> </url>
+			<description>Tymont is a high-end office furniture retailer. They needed a brochure to showcase their top of the line offerings.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/P_tymont.jpg</thumb>
+			<preview>
+				<pic>data/images_l/tymont1.jpg</pic>
+				<pic>data/images_l/tymont2.jpg</pic>
+			</preview>
+		</project>
+				<project>
+			<id>comwave</id>
+			<section>print</section>
+			<type>logo</type>
+			<name>COMWAVE</name>
+			<year>2011</year>
+			<url> </url>
+			<description>Canada's leading VoiP provider needed their brand 'refreshed' to stay releveant in the current market. I left the 3D shape of the old logo and updated the Comwave font to a more contemporary typeface.</description>
+			<role>design</role>
+			<thumb>data/images_t/L_comwave.jpg</thumb>
+			<preview>
+				<pic>data/images_l/comwave.jpg</pic>
+			</preview>
+		</project>
+		<project>
+			<id>cx_banner</id>
+			<section>print</section>
+			<type>print</type>
+			<name>CYBERPLEX // Banner</name>
+			<year>2011</year>
+			<url> </url>
+			<description>Cyberplex, a microsoft partner neeeded an eye-catching banner for a trade-show; this was the result.</description>
+			<role>art direction</role>
+			<thumb>data/images_t/P_cxbanner.jpg</thumb>
+			<preview>
+				<pic>data/images_l/cxbanner1.jpg</pic>
+				<pic>data/images_l/cxbanner2.jpg</pic>
+				<pic>data/images_l/cxbanner3.jpg</pic>
+			</preview>
+		</project>
+
+		</projects>
+	<clients>
+		<client>
+			<name></name>
+			<thumb>data/logo/8.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/18.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/14.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/4.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/7.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/16.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/15.png</thumb>
+			<project_id>tim-hortons</project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/13.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/9.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/1.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/21.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/23.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/10.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/17.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/12.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/19.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/5.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/6.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/20.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/22.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/11.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/2.png</thumb>
+			<project_id></project_id>
+		</client>
+		<client>
+			<name></name>
+			<thumb>data/logo/3.png</thumb>
+			<project_id></project_id>
+		</client>
+	</clients>
+</data>
