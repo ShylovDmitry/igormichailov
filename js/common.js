@@ -114,9 +114,9 @@ var SiteManager = (function() {
 		var el = $('.project.active');
 		el.removeClass('active');
 
-		var project = getProjectById(el.attr('data-id'));
+		var project = getProjectById('all', el.attr('data-id'));
 		if (project) {
-			$('.preview', el).html(getProjectPreview(project));
+			$('.preview', el).html(getProjectPreview('all', project));
 		}
 		$(window).trigger('scroll');
 	}
